@@ -1,1 +1,2 @@
-print(27/2 * 124)
+print(27/2 * 100)
+print("Git Diff test")
